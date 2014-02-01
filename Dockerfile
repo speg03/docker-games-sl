@@ -8,4 +8,4 @@ MAINTAINER speg03 "speg03@gmail.com"
 RUN apt-get update
 RUN apt-get install -y sl
 
-ENTRYPOINT ["sl"]
+ENTRYPOINT ["/usr/games/sl"]
