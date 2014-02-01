@@ -5,5 +5,5 @@ Usage
 -----
 
 ```
-$ docker run -t speg03/sl
+$ docker run -t speg03/games-sl
 ```
